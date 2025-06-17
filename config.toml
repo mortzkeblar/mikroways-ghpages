@@ -2,6 +2,8 @@
 baseURL = "/"
 title = "Mikroways"
 theme = "bizcraft-hugo"
+relativeURLs = true
+canonifyURLs = true
 # post pagination
 paginate = "3"
 # post excerpt
