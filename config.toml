@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://mortzkeblar.github.io/mikroways-ghpages/"
 title = "Mikroways"
 theme = "bizcraft-hugo"
 # post pagination
